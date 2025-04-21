@@ -8,8 +8,12 @@ export default function ProfileHeader() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
             <div className="relative h-24 w-24 mr-6">
-              <div className="absolute inset-0 bg-[#ffc107] rounded-full flex items-center justify-center text-[#2d3e50] dark:text-[#1a2533] text-4xl font-bold">
-                MC
+              <div className="absolute inset-0 bg-[#ffc107] rounded-full overflow-hidden flex items-center justify-center">
+                <img
+                  src="https://media-dub4-1.cdn.whatsapp.net/v/t61.24694-24/491890692_655299747286995_8043422082974457198_n.jpg?ccb=11-4&oh=01_Q5Aa1QE7av2iWBtxknGf4ERz0JlQEvcDtD79x1Eqs0_BRk5kuw&oe=68123B7D&_nc_sid=5e03e0&_nc_cat=106"
+                  alt="Melissa Cantero"
+                  className="h-full w-full object-cover"
+                />
               </div>
             </div>
             <div>
