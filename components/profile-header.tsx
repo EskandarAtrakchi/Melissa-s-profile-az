@@ -10,7 +10,7 @@ export default function ProfileHeader() {
             <div className="relative h-24 w-24 mr-6">
               <div className="absolute inset-0 bg-[#ffc107] rounded-full overflow-hidden flex items-center justify-center">
                 <img
-                  src="https://media-dub4-1.cdn.whatsapp.net/v/t61.24694-24/491890692_655299747286995_8043422082974457198_n.jpg?ccb=11-4&oh=01_Q5Aa1QE7av2iWBtxknGf4ERz0JlQEvcDtD79x1Eqs0_BRk5kuw&oe=68123B7D&_nc_sid=5e03e0&_nc_cat=106"
+                  src="https://static.vecteezy.com/system/resources/previews/035/186/145/large_2x/ai-generated-model-beauty-face-female-adult-cute-person-women-attractive-lady-happy-white-background-photo.jpg"
                   alt="Melissa Cantero"
                   className="h-full w-full object-cover"
                 />
